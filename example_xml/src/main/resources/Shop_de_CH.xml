@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+<folder title="General">
+<page title="Deliveries"/>
+<page title="Customer care">
+<entry key="vw-mod-carnet-customercare-telephone"><![CDATA[0800 40 20 40]]></entry>
+<entry key="vw-mod-carnet-customercare-telephone-cost"><![CDATA[Diese Hotline ist kostenlos]]></entry>
+<entry key="vw-mod-carnet-customercare-telephone-times"><![CDATA[Montag - Freitag<br />07:30 - 12:00 & 13:00 - 17:15]]></entry>
+<entry key="vw-mod-carnet-customercare-link-target"><![CDATA[mailto:customercare.vw@amag.ch]]></entry>
+<entry key="vw-mod-carnet-customercare-link-text"><![CDATA[customercare.vw@amag.ch]]></entry>
+</page>
+<page title="Footer">
+<entry key="vw-mod-carnet-footer-column-3-linkname-2"><![CDATA[Volkswagen Schweiz]]></entry>
+<entry key="vw-mod-carnet-footer-column-3-linkname-2-link-target"><![CDATA[http://www.volkswagen.ch/de.html]]></entry>
+<entry key="vw-mod-carnet-footer-column-3-linkname-4"><![CDATA[Händlersuche]]></entry>
+<entry key="vw-mod-carnet-footer-column-3-linkname-4-link-target"><![CDATA[http://www.volkswagen.ch/de/beratung-verkauf/volkswagen-partner.html]]></entry>
+<entry key="vw-mod-carnet-footer-column-4-linkname-1"><![CDATA[Volkswagen Nutzfahrzeuge]]></entry>
+<entry key="vw-mod-carnet-footer-column-4-linkname-1-link-target"><![CDATA[http://www.volkswagen-nutzfahrzeuge.ch]]></entry>
+<entry key="vw-mod-carnet-footer-column-4-linkname-2"><![CDATA[Händlersuche (Nutzfahrzeuge)]]></entry>
+<entry key="vw-mod-carnet-footer-column-4-linkname-2-link-target"><![CDATA[http://www.volkswagen-nutzfahrzeuge.ch/de/beratung---verkauf/haendlersuche.html]]></entry>
+</page>
+<page title="Footer mobile"/>
+<page title="Units">
+<entry key="vw-mod-carnet-unit-currency"><![CDATA[CHF]]></entry>
+</page>
+<page title="Registration form">
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-personal"><![CDATA[Ihre persönlichen Angaben]]></entry>
+<entry key="customerSalutationLabel"><![CDATA[Anrede]]></entry>
+<entry key="customerSalutation-MR"><![CDATA[Herr]]></entry>
+<entry key="customerSalutation-MRS"><![CDATA[Frau]]></entry>
+<entry key="customerSalutation-MS"><![CDATA[]]></entry>
+<entry key="customerSalutationError-empty"><![CDATA[Bitte wählen Sie eine Anrede.]]></entry>
+<entry key="customerAcademicTitle1Label"><![CDATA[Titel]]></entry>
+<entry key="customerAcademicTitle1-DR"><![CDATA[Dr.]]></entry>
+<entry key="customerAcademicTitle1-PROF"><![CDATA[Prof.]]></entry>
+<entry key="customerAcademicTitle1-PROF_DR"><![CDATA[Prof. Dr.]]></entry>
+<entry key="customerAcademicTitle1-DIPL"><![CDATA[Dipl.]]></entry>
+<entry key="customerAcademicTitle1-DIPL_ING"><![CDATA[Dipl. Ing.]]></entry>
+<entry key="customerAcademicTitle1-BACHELOR"><![CDATA[]]></entry>
+<entry key="customerAcademicTitle1-MASTER"><![CDATA[]]></entry>
+<entry key="customerAcademicTitle1-MAGISTER"><![CDATA[]]></entry>
+<entry key="customerAcademicTitle1Error-empty"><![CDATA[Bitte wählen Sie einen Titel]]></entry>
+<entry key="customerAcademicTitle2Label"><![CDATA[Titelzusatz]]></entry>
+<entry key="customerAcademicTitle2Error-validation"><![CDATA[Bitte geben Sie einen gültigen Titelzusatz an]]></entry>
+<entry key="customerFirstNameLabel"><![CDATA[Vorname]]></entry>
+<entry key="customerFirstNameError-validation"><![CDATA[Bitte geben Sie einen gültigen Vornamen an]]></entry>
+<entry key="customerLastNameLabel"><![CDATA[Nachname]]></entry>
+<entry key="customerLastNameError-validation"><![CDATA[Bitte geben Sie einen gültigen Nachnamen an]]></entry>
+<entry key="customerSecondLastNameLabel"><![CDATA[Nachnamezusatz]]></entry>
+<entry key="customerSecondLastNameError-validation"><![CDATA[Bitte geben Sie einen gültigen zweiten Nachnamen an]]></entry>
+<entry key="customerDateOfBirthLabel"><![CDATA[Geburtsdatum]]></entry>
+<entry key="customerNationalityLabel"><![CDATA[Nationalität]]></entry>
+<entry key="customerNationalityError-empty"><![CDATA[Bitte geben Sie Ihre Nationalität an]]></entry>
+<entry key="customerNationalCitizenIdentifierLabel"><![CDATA[Personalausweisnummer]]></entry>
+<entry key="customerNationalCitizenIdentifierError-validation"><![CDATA[Bitte geben Sie eine gültige Personalausweisnummer an]]></entry>
+<entry key="customerDriverLicenseNumberLabel"><![CDATA[Führerscheinnummer]]></entry>
+<entry key="customerDriverLicenseNumberError-validation"><![CDATA[Bitte geben Sie eine gültige Führerscheinnummer an]]></entry>
+<entry key="customerUnitLabel"><![CDATA[Längeneinheit]]></entry>
+<entry key="customerUnit-KM"><![CDATA[Kilometer]]></entry>
+<entry key="customerUnit-MI"><![CDATA[Meilen]]></entry>
+<entry key="customerUnitError-empty"><![CDATA[Bitte wählen Sie eine Längeneinheit]]></entry>
+<entry key="customerIsPrivateIndicatorLabel"><![CDATA[Gewerbliche Nutzung]]></entry>
+<entry key="vw-mod-carnet-registration-business-usage-text"><![CDATA[Ich nutze das Fahrzeug als Geschäftskunde]]></entry>
+<entry key="vw-mod-carnet-registration-business-usage-tip"><![CDATA[Sie verwenden Ihr Fahrzeug mindestens teilweise geschäftlich und besitzen eine Umsatzsteuer-Identifikationsnummer.]]></entry>
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-account-info"><![CDATA[Ihre Kontoinformationen]]></entry>
+<entry key="customerEmailLabel"><![CDATA[E-Mail-Adresse]]></entry>
+<entry key="customerEmailError-validation"><![CDATA[Bitte geben Sie eine korrekte E-Mail-Adresse an]]></entry>
+<entry key="vw-mod-carnet-registration-passwordLabel"><![CDATA[Passwort]]></entry>
+<entry key="vw-mod-carnet-d5-account-profil-text-account-edit-password-criteria-capital-letters"><![CDATA[Grossbuchstabe]]></entry>
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-contact"><![CDATA[Ihre Anschrift]]></entry>
+<entry key="customerAddressAdressTypeLabel"><![CDATA[Adresstyp]]></entry>
+<entry key="customerAddressAdressType-BUSINESS"><![CDATA[beruflich]]></entry>
+<entry key="customerAddressAdressType-HOME"><![CDATA[privat]]></entry>
+<entry key="customerAddressAdressTypeError"><![CDATA[Bitte wählen Sie einen Adresstyp]]></entry>
+<entry key="customerAddressCoLabel"><![CDATA[Zu Händen]]></entry>
+<entry key="customerAddressCoError-validation"><![CDATA[Bitte geben Sie eine gültige Angabe ein]]></entry>
+<entry key="customerAddressStreetLabel"><![CDATA[Strasse]]></entry>
+<entry key="customerAddressStreetError-validation"><![CDATA[Bitte geben Sie einen gültigen Strassennamen an]]></entry>
+<entry key="customerAddressStreetHnoLabel"><![CDATA[Hausnummer]]></entry>
+<entry key="customerAddressStreetHnoError-validation"><![CDATA[Bitte geben Sie eine gültige Hausnummer an]]></entry>
+<entry key="customerAddressStreet2Label"><![CDATA[Adresszusatz]]></entry>
+<entry key="customerAddressStreet2Error-validation"><![CDATA[Bitte geben Sie einen gültigen Adresszusatz an]]></entry>
+<entry key="customerAddressStreet3Label"><![CDATA[Adresszusatz]]></entry>
+<entry key="customerAddressStreet3Error-validation"><![CDATA[Bitte geben Sie einen gültigen Adresszusatz an]]></entry>
+<entry key="customerAddressBuildingNameLabel"><![CDATA[Gebäudename]]></entry>
+<entry key="customerAddressBuildingNameError-validation"><![CDATA[Bitte geben Sie einen gültigen Gebäudenamen an]]></entry>
+<entry key="customerAddressBuildingCodeLabel"><![CDATA[Gebäudenummer]]></entry>
+<entry key="customerAddressBuildingCodeError-validation"><![CDATA[Bitte geben Sie eine gültige Gebäudenummer an]]></entry>
+<entry key="customerAddressFloorNoLabel"><![CDATA[Stockwerk]]></entry>
+<entry key="customerAddressFloorNoError-validation"><![CDATA[Bitte geben Sie eine gültige Etage an]]></entry>
+<entry key="customerAddressRoomNoLabel"><![CDATA[Raumnummer]]></entry>
+<entry key="customerAddressRoomNoError-validation"><![CDATA[Bitte geben Sie eine gültige Raumnummer an]]></entry>
+<entry key="customerAddressZipLabel"><![CDATA[Postleitzahl]]></entry>
+<entry key="customerAddressZipError-validation"><![CDATA[Bitte geben Sie eine gültige Postleitzahl an]]></entry>
+<entry key="customerAddressCityLabel"><![CDATA[Stadt]]></entry>
+<entry key="customerAddressCityError-validation"><![CDATA[Bitte geben Sie eine gültige Stadt an]]></entry>
+<entry key="customerAddressCityDistrictLabel"><![CDATA[Stadtteil]]></entry>
+<entry key="customerAddressCityDistrictError-validation"><![CDATA[Bitte geben Sie einen gültigen Stadtteil an]]></entry>
+<entry key="customerAddressRegionLabel"><![CDATA[Kanton]]></entry>
+<entry key="customerAddressRegionError-empty"><![CDATA[Bitte wählen Sie Ihr Kanton aus]]></entry>
+<entry key="customerAddressCountryLabel"><![CDATA[Land]]></entry>
+<entry key="customerAddressCountryError-empty"><![CDATA[Bitte wählen Sie Ihr Land aus]]></entry>
+<entry key="customerPhoneContactContactTypeLabel"><![CDATA[Kontaktart]]></entry>
+<entry key="customerPhoneContactContactType-PHONE_HOME"><![CDATA[privat]]></entry>
+<entry key="customerPhoneContactContactType-PHONE_BUSINESS"><![CDATA[beruflich]]></entry>
+<entry key="customerPhoneContactContactType-PHONE_MOBILE"><![CDATA[mobil]]></entry>
+<entry key="customerPhoneContactContactTypeError-empty"><![CDATA[Bitte wählen Sie die Art Ihres Telefonanschlusses]]></entry>
+<entry key="customerPhoneContactCountryCodeError-empty"><![CDATA[Bitte wählen Sie Ihre Landesvorwahl aus]]></entry>
+<entry key="customerPhoneContactAreaCodeError-empty-validation"><![CDATA[Bitte geben Sie eine gültige Vorwahl an]]></entry>
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-agree"><![CDATA[Einverständniserklärung]]></entry>
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-agree-terms-error"><![CDATA[Bitte akzeptieren Sie die Nutzungsbedingungen des Benutzerkontos]]></entry>
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-marketing"><![CDATA[Über welchen Kanal möchten Sie von uns kontaktiert werden?]]></entry>
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-marketing-text"><![CDATA[Datenschutzrechtliche Einwilligungserklärung]]></entry>
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-marketing-check"><![CDATA[Ich bin damit einverstanden, dass meine vorstehenden personenbezogenen Daten einschliesslich meiner]]></entry>
+<entry key="marketingAgreementOptinFlag-EMAIL"><![CDATA[E-Mail-Adresse]]></entry>
+<entry key="marketingAgreementOptinFlag-PHONE_HOME"><![CDATA[Telefon-Nr.]]></entry>
+<entry key="marketingAgreementOptinFlag-SMS"><![CDATA[Mobilnummer (einschliesslich SMS)]]></entry>
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-marketing-check-error"><![CDATA[Bitte wählen Sie mindestens einen Kanal aus, über den Sie kontaktiert werden möchten]]></entry>
+<entry key="vw-mod-carnet-d5-registration-headline-wizard-page-1-modul-marketing-check-text-2"><![CDATA[zum Zwecke der persönlich auf mich zugeschnittenen Werbung und Marktforschung von der Volkswagen AG sowie der AMAG Automobil- und Motoren AG erhoben, verarbeitet und genutzt werden.]]></entry>
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-data-protection-headline"><![CDATA[Datenschutzrechtlicher Hinweis:]]></entry>
+<entry key="vw-mod-carnet-registration-headline-wizard-page-1-modul-data-protection-text"><![CDATA[Sie haben ein jederzeitiges Auskunfts-, Berichtigungs- und Löschungsrecht bezüglich der Verarbeitung und Nutzung Ihrer Daten. Selbstverständlich können Sie Ihre vorstehende Einwilligung jederzeit widerrufen. Die vorstehenden Rechte können Sie über die Kundenbetreuung der Volkswagen AG geltend machen (E-Mail: <a href="mailto:info-datenschutz@volkswagen.de">info-datenschutz@volkswagen.de</a>).<br /><br />Sofern Ihre Daten von der AMAG Automobil- und Motoren AG zum Zwecke der persönlich auf Sie zugeschnittenen Werbung und Marktforschung verarbeitet und genutzt werden, können Sie diesbezüglich die vorstehenden Rechte über die AMAG Automobil- und Motoren AG geltend machen (E-Mail: {0}).]]></entry>
+<entry key="vw-mod-carnet-registration-business-usage-label"><![CDATA[Gewerbliche Nutzung]]></entry>
+</page>
+<page title="VW Profile">
+<entry key="vw-profile-hint-privacy-policy"><![CDATA[Unsere Datenschutzerklärung finden Sie <a href="https://www.volkswagen-car-net.com/portal/web/ch/content/-/content/legal/privacy-policy" target="_blank">hier</a>.]]></entry>
+<entry key="vw-profile-hint-revocation-text"><![CDATA[Selbstverständlich können Sie Ihre Einwilligung jederzeit ohne Angabe von Gründen gegenüber der Volkswagen AG per E-Mail an <a href="mailto:info-datenschutz@volkswagen.de">info-datenschutz@volkswagen.de</a> bzw. unter den im <a href="https://www.volkswagen-car-net.com/portal/web/ch/content/-/content/legal/imprint" target="_blank">Impressum</a> angegebenen Kontaktdaten mit Wirkung für die Zukunft widerrufen.]]></entry>
+</page>
+<page title="System mails">
+<entry key="vw-mod-carnet-d5-systemmails-btn-discover-link"><![CDATA[http://volkswagen-carnet.com/ch/de/start.html]]></entry>
+<entry key="vw-mod-carnet-d5-systemmails-btn-infocenter-link"><![CDATA[https://www.volkswagen-car-net.com/portal/de_CH/web/ch/content/-/content/info-center/]]></entry>
+<entry key="vw-mod-carnet-d5-systemmails-social-media-facebook"><![CDATA[https://www.facebook.com/volkswagen.ch]]></entry>
+<entry key="vw-mod-carnet-d5-systemmails-social-media-facebook-google"><![CDATA[https://www.google.com/+volkswagench]]></entry>
+<entry key="vw-mod-carnet-customercare-link-target" ref="true"><![CDATA[mailto:customercare.vw@amag.ch]]></entry>
+<entry key="vw-mod-carnet-customercare-link-text" ref="true"><![CDATA[customercare.vw@amag.ch]]></entry>
+<entry key="vw-mod-carnet-customercare-telephone" ref="true"><![CDATA[0800 40 20 40]]></entry>
+<entry key="vw-mod-carnet-customercare-telephone-cost" ref="true"><![CDATA[Diese Hotline ist kostenlos]]></entry>
+<entry key="vw-mod-carnet-customercare-telephone-times" ref="true"><![CDATA[Montag - Freitag<br />07:30 - 12:00 & 13:00 - 17:15]]></entry>
+</page>
+<page title="Links to Car-Net App">
+<entry key="vw-mod-carnet-d5-landingpage-content5-app-link-appstore"><![CDATA[https://itunes.apple.com/ch/app/car-net/id656549103?mt=8]]></entry>
+</page>
+<page title="Apple Music">
+<entry key="vw-mod-carnet-apple-music-ad-information2"><![CDATA[* Gültig nur für Einzelmitgliedschaften; 3 Gratismonate bei bestehender Mitgliedschaft; kann nicht mit anderen Angeboten und Aktionen kombiniert werden; nach Ablauf der kostenlosen Phase verlängert sich die Mitgliedschaft automatisch.<br /><br />Der Code ist 12 Monate gültig.<br /><br />Dieser Gutscheincode ist nicht zum Weiterverkauf bestimmt, hat keinen Barwert und wird bei Verlust oder Diebstahl nicht ersetzt. Gilt nur für Apple Music in der Schweiz. iTunes-Konto erforderlich. Es gelten die Bedingungen der Apple Media Services; die für Ihr Land geltenden Bedingungen finden Sie unter <a href="https://www.apple.com/legal/internet-services/itunes/" target="_blank">https://www.apple.com/legal/internet-services/itunes/</a>. Sie müssen mindestens 13 Jahre alt sein und Ihr Wohnsitz muss in dem Land des Shop-Zugangs liegen, über den Sie den Code einlösen. Kompatible Produkte und Services erforderlich.<br /> <br />Apple Music ist eine eingetragene Marke von Apple Inc. Apple ist kein Teilnehmer oder Sponsor dieser Werbeaktion.]]></entry>
+</page>
+<page title="Apple Music Layer"/>
+</folder>
+<folder title="First level navigation">
+<page title="Logged out"/>
+<page title="Logged in"/>
+<page title="Vehicle flyout"/>
+<page title="Settings flyout"/>
+<page title="Reduced menue"/>
+<page title="Desktop/Mobile"/>
+</folder>
+<folder title="Contact form (Legal 1.0)">
+<page title="Contact form (logged in)"/>
+<page title="Contact form (logged out)">
+<entry key="customerEmailLabel" ref="true"><![CDATA[E-Mail-Adresse]]></entry>
+<entry key="customerEmailError-validation" ref="true"><![CDATA[Bitte geben Sie eine korrekte E-Mail-Adresse an]]></entry>
+</page>
+<page title="Confirmation page"/>
+<page title="E-Mail customer service"/>
+<page title="E-Mail user"/>
+</folder>
+<folder title="Contact form (Legal 2.0)">
+<page title="Logged in (default)"/>
+<page title="Logged in (contract)"/>
+<page title="Logged out">
+<entry key="customerFirstNameLabel" ref="true"><![CDATA[Vorname]]></entry>
+<entry key="customerFirstNameError-validation" ref="true"><![CDATA[Bitte geben Sie einen gültigen Vornamen an]]></entry>
+<entry key="customerLastNameLabel" ref="true"><![CDATA[Nachname]]></entry>
+<entry key="customerLastNameError-validation" ref="true"><![CDATA[Bitte geben Sie einen gültigen Nachnamen an]]></entry>
+<entry key="customerEmailLabel" ref="true"><![CDATA[E-Mail-Adresse]]></entry>
+<entry key="customerEmailError-validation" ref="true"><![CDATA[Bitte geben Sie eine korrekte E-Mail-Adresse an]]></entry>
+</page>
+<page title="Confirmation page"/>
+<page title="E-Mail customer service"/>
+<page title="E-Mail user"/>
+</folder>
+<folder title="Articles &amp; Services (incl. all references)">
+<folder title="Articles">
+<page title="All main articles"/>
+<page title="All articles for dynamic enrollment"/>
+</folder>
+<folder title="Services">
+<page title="Guide &amp; Inform">
+<entry key="vw-car-net-V03.959.801.RM-product-description"><![CDATA[Mit "Parkplätze" suchen Sie bequem und ohne Frust nach geeigneten Parkplätzen im Umkreis des aktuellen Fahrzeugstandortes. Die Anwendung zeigt die Gesamtanzahl und die Anzahl der freien Parkplätze. Ausserdem informiert der Dienst über Preise, Öffnungszeiten und Entfernungen. Entsprechende Parkplätze werden in der Kartenansicht des Radio-Navigationssystems angezeigt.]]></entry>
+<entry key="vw-car-net-V03.959.801.SR-product-description"><![CDATA[Behalten Sie die Orientierung: Mit Google Street View™ werden Ihnen Ziele übersichtlich mit 360-Grad-Panoramabildern aus der Strassenperspektive angezeigt.]]></entry>
+</page>
+<page title="Security &amp; Service"/>
+<page title="e-Remote"/>
+<page title="New for MOD3"/>
+<page title="Functions for MOD3"/>
+<page title="Flottendienste"/>
+</folder>
+<folder title="Mappings &amp; Clusters">
+<page title="All articles &amp; services mappings"/>
+<page title="Tile clusters"/>
+</folder>
+<folder title="Overall videos">
+<page title="All overall videos">
+<entry key="vw-car-net-help-enrollment-portal-video"><![CDATA[https://vw2-a.akamaihd.net/mm/flvmedia/5109/c/4/6/c4635047_tazo4y3f_h264_2128K.mp4?cid=5109&amp;aid=3117587&amp;afid=7105981&assetid=3117587]]></entry>
+<entry key="vw-car-net-help-enrollment-app-video"><![CDATA[https://vwmicrosites-a.akamaihd.net/mm/flvmedia/5219/v/3/h/v3hvz59y_g08i08f1_h264_2128K.mp4?cid=5219&amp;aid=3526776&amp;afid=7457164&assetid=3526776]]></entry>
+<entry key="vw-car-net-help-enrollment-car-video"><![CDATA[https://vwmicrosites-a.akamaihd.net/mm/flvmedia/5219/t/l/1/tl1quaqe_k8z04088_h264_2128K.mp4?cid=5219&amp;aid=3533709&amp;afid=7470947&assetid=3533709]]></entry>
+<entry key="vw-car-net-help-connection-video"><![CDATA[https://vwmicrosites-a.akamaihd.net/mm/flvmedia/5219/n/9/7/n977w99u_h39hy979_h264_2128K.mp4?cid=5219&amp;aid=3526777&amp;afid=7457168&assetid=3526777]]></entry>
+<entry key="vw-car-net-shop-video-asset-id"><![CDATA[3248679]]></entry>
+</page>
+</folder>
+</folder>
+<folder title="Error pages">
+<page title="Error Pages">
+<entry key="vw-mod-carnet-error-page-400-homepage-btn"><![CDATA[Zurück zu Car-Net]]></entry>
+<entry key="vw-mod-carnet-error-page-401-homepage-btn"><![CDATA[Zurück zu Car-Net]]></entry>
+<entry key="vw-mod-carnet-error-page-403-homepage-btn"><![CDATA[Zurück zu Car-Net]]></entry>
+<entry key="vw-mod-carnet-error-page-404-homepage-btn"><![CDATA[Zurück zu Car-Net]]></entry>
+<entry key="vw-mod-carnet-error-page-408-text"><![CDATA[Die von Ihnen gestellte Anfrage hat die vom Server erlaubte Zeitspanne überschritten. Versuchen Sie es bitte erneut.]]></entry>
+<entry key="vw-mod-carnet-error-page-408-refresh-btn"><![CDATA[Seite aktualisieren]]></entry>
+<entry key="vw-mod-carnet-error-page-500-text"><![CDATA[Leider ist der Server aktuell nicht verfügbar. Unser Team arbeitet bereits an der Lösung des Problems. Versuchen Sie es einfach später noch einmal.]]></entry>
+<entry key="vw-mod-carnet-error-page-500-refresh-btn"><![CDATA[Seite aktualisieren]]></entry>
+<entry key="vw-mod-carnet-error-page-502-refresh-btn"><![CDATA[Seite aktualisieren]]></entry>
+<entry key="vw-mod-carnet-error-page-503-text"><![CDATA[Wir bitten um Entschuldigung. Unser Team wartet zurzeit den Server. Die Mobilen Online-Services von Volkswagen stehen Ihnen bald wieder zur Verfügung. Versuchen Sie es einfach später noch einmal.]]></entry>
+<entry key="vw-mod-carnet-error-page-503-refresh-btn"><![CDATA[Seite aktualisieren]]></entry>
+</page>
+<page title="General error page"/>
+<folder title="Maintenance">
+<page title="Maintenance page"/>
+<page title="Maintenance page notification"/>
+</folder>
+<page title="Legal documents not available">
+<entry key="vw-mod-carnet-core-legal-maintenance-btn"><![CDATA[Zurück zu Car-Net]]></entry>
+</page>
+</folder>
+<folder title="Legal pages">
+<page title="Terms of use for the user account">
+<entry key="vw-mod-carnet-legal-pages-account-policy-text"><![CDATA[1. Für Eröffnung und Verwaltung des Benutzerkontos auf dem Internet-Portal der Volkswagen AG <nobr>(<a href="/">www.volkswagen-car-net.com</a>)</nobr> gelten die folgenden Nutzungsbedingungen:<br /><br />2. Das Passwort für den Zugang zum Benutzerkonto ist vom Kunden so zu wählen, dass es durch Dritte nicht leicht zu erraten ist. Insbesondere Vor- und Familiennamen oder Geburtstage sowie Namen von Angehörigen sind als Passwort nicht geeignet. Gleiches gilt für trivial angeordnete Zahlenkombinationen (z.B. 12345). Das Passwort muss mindestens eine Zahl und ein Sonderzeichen enthalten.<br /><br />3. Das Passwort ist vom Kunden streng vertraulich zu behandeln. Im Falle der Offenbarung des Passwortes an einen Dritten hat der Kunde das Passwort unverzüglich zu ändern oder – falls er sich nicht mehr in sein Benutzerkonto einloggen kann – sich mit der Volkswagen AG in Verbindung zu setzen.<br /><br />4. Der Kunde hat dafür Sorge zu tragen, dass die Angaben im Benutzerkonto wahrheitsgemäss und vollständig sind. Da die Kommunikation der Volkswagen AG mit dem Kunden u.a. per E-Mail erfolgt, muss der Kunde insbesondere über eine gültige E-Mail-Adresse verfügen und Zugriff auf den dazugehörigen E-Mail-Account haben. Ändern sich die E-Mail-Adresse oder sonstige Angaben des Kunden, so sind diese im Benutzerkonto des Kunden über das Internet-Portal der Volkswagen AG <nobr>(<a href="/">www.volkswagen-car-net.com</a>)</nobr> unverzüglich zu aktualisieren.<br /><br />5. Die Angaben im Benutzerkonto kann der Kunde auf dem Internet-Portal der Volkswagen AG <nobr>(<a href="/">www.volkswagen-car-net.com</a>)</nobr> nach einem Login in das Benutzerkonto einsehen und aktualisieren.<br /><br />6. Volkswagen ist zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder bereit noch dazu verpflichtet.]]></entry>
+</page>
+<page title="China: Privacy II"/>
+<page title="Imprint"/>
+<folder title="Cookies">
+<page title="Agreement"/>
+<page title="Guidelines"/>
+</folder>
+</folder>
+<folder title="FAQ">
+<page title="Help Page"/>
+<page title="Category Overview"/>
+<folder title="Tipps &amp; Tricks">
+<page title="Registration/Activation">
+<entry key="vw-car-net-help-enrollment-portal-video" ref="true"><![CDATA[https://vw2-a.akamaihd.net/mm/flvmedia/5109/c/4/6/c4635047_tazo4y3f_h264_2128K.mp4?cid=5109&amp;aid=3117587&amp;afid=7105981&assetid=3117587]]></entry>
+<entry key="vw-car-net-help-enrollment-app-video" ref="true"><![CDATA[https://vwmicrosites-a.akamaihd.net/mm/flvmedia/5219/v/3/h/v3hvz59y_g08i08f1_h264_2128K.mp4?cid=5219&amp;aid=3526776&amp;afid=7457164&assetid=3526776]]></entry>
+<entry key="vw-car-net-help-enrollment-car-video" ref="true"><![CDATA[https://vwmicrosites-a.akamaihd.net/mm/flvmedia/5219/t/l/1/tl1quaqe_k8z04088_h264_2128K.mp4?cid=5219&amp;aid=3533709&amp;afid=7470947&assetid=3533709]]></entry>
+</page>
+<page title="Internet connection">
+<entry key="vw-car-net-help-connection-video" ref="true"><![CDATA[https://vwmicrosites-a.akamaihd.net/mm/flvmedia/5219/n/9/7/n977w99u_h39hy979_h264_2128K.mp4?cid=5219&amp;aid=3526777&amp;afid=7457168&assetid=3526777]]></entry>
+</page>
+<page title="Car-Net App"/>
+</folder>
+<folder title="General">
+<page title="Overall">
+<entry key="vw-mod-carnet-info-center-faq-category-1-section-1-answer-15"><![CDATA[Wenn Sie bei der Bestellung Ihres Volkswagen das Dienstepaket „Security & Service" oder „e-Remote" mitbestellt haben, wurde in Ihrem Fahrzeug die Online Connectivity Unit verbaut (OCU). Diese OCU verfügt über eine SIM-Karte, über die Ihr Fahrzeug automatisch eine Internetverbindung zum Car-Net Portal aufbaut.]]></entry>
+</page>
+<page title="Registration"/>
+<page title="Add vehicle">
+<entry key="vw-car-net-help-enrollment-portal-video" ref="true"><![CDATA[https://vw2-a.akamaihd.net/mm/flvmedia/5109/c/4/6/c4635047_tazo4y3f_h264_2128K.mp4?cid=5109&amp;aid=3117587&amp;afid=7105981&assetid=3117587]]></entry>
+<entry key="vw-car-net-help-enrollment-app-video" ref="true"><![CDATA[https://vwmicrosites-a.akamaihd.net/mm/flvmedia/5219/v/3/h/v3hvz59y_g08i08f1_h264_2128K.mp4?cid=5219&amp;aid=3526776&amp;afid=7457164&assetid=3526776]]></entry>
+<entry key="vw-car-net-help-enrollment-car-video" ref="true"><![CDATA[https://vwmicrosites-a.akamaihd.net/mm/flvmedia/5219/t/l/1/tl1quaqe_k8z04088_h264_2128K.mp4?cid=5219&amp;aid=3533709&amp;afid=7470947&assetid=3533709]]></entry>
+</page>
+<page title="Manage vehicles"/>
+<page title="Deactivate services"/>
+<page title="Security"/>
+<page title="Data protection"/>
+<page title="Secondary user"/>
+<page title="My Service Partner"/>
+</folder>
+<folder title="Contract">
+<page title="Activation of services"/>
+<page title="Existing contracts">
+<entry key="vw-mod-carnet-info-center-faq-category-2-section-2-answer-2"><![CDATA[Sie können Ihre Bestellung ohne Angabe von Gründen innerhalb von 14 Tagen widerrufen. Weitere Informationen finden Sie im Car-Net Portal unter dem Navigationspunkt <a href="https://www.volkswagen-car-net.com/portal/web/ch/content/-/content/legal/carnet-terms-and-conditions">„Rechtliches/AGB“</a>.]]></entry>
+<entry key="vw-mod-carnet-info-center-faq-category-2-section-2-answer-3"><![CDATA[Um den Vertrag zu widerrufen, nutzen Sie bitte das Muster-Widerrufsformular. Sie finden das Formular im Anhang Ihrer Bestellbestätigung oder unter dem Navigationspunkt <a href="https://www.volkswagen-car-net.com/portal/web/ch/content/-/content/legal/carnet-terms-and-conditions">„Rechtliches/AGB“</a>.]]></entry>
+</page>
+<page title="Payment">
+<entry key="vw-mod-carnet-info-center-faq-category-2-section-3-answer-1"><![CDATA[Sie können per Vorkasse oder Kreditkarte zahlen. Wählen Sie dafür das entsprechende Zahlungsmittel bei der Bestellung aus.]]></entry>
+</page>
+<page title="Transfer/Sale">
+<entry key="vw-mod-carnet-info-center-faq-category-2-section-5-question-2"><![CDATA[Kann ich meinen Vertrag auf den neuen Besitzer übertragen, wenn ich mein Auto verkaufe?]]></entry>
+<entry key="vw-mod-carnet-info-center-faq-category-2-section-5-answer-4"><![CDATA[Damit alte Benutzerdaten gelöscht werden, ist es erforderlich, das Infotainmentsystem auf die Werkseinstellungen zurückzusetzen. Klicken Sie die Taste „Menu“ Ihres Infotainmentsystems und wählen Sie den Unterpunkt „Setup“ aus. Klicken Sie nun auf die Funktionsfläche „Werkseinstellungen“. Sie haben nun die Möglichkeit, alle Einstellungen oder nur die Car-Net Einstellungen zurückzusetzen. <br />Bitte beachten Sie, dass nach dem Zurücksetzen des Infotainmentsystems Ihr Fahrzeug nicht mehr mit Ihrem Benutzerkonto verbunden ist und somit auch Ihre fahrzeugbezogenen Daten im Car-Net Portal gelöscht wurden.<br /><br />Nähere Informationen finden Sie in der <a href="https://www.volkswagen-car-net.com/portal/web/ch/content/-/content/legal/privacy-policy" target="_blank">Datenschutzerklärung</a>.]]></entry>
+</page>
+<page title="Prolongation/Order"/>
+<page title="Period/End of contract">
+<entry key="vw-mod-carnet-info-center-faq-category-2-section-7-answer-1"><![CDATA[Die Car-Net Dienste können bei Neufahrzeugen innerhalb der erstmaligen Laufzeit kostenfrei genutzt werden. Die Dauer der kostenfreien Dienstelaufzeit richtet sich nach dem Land, dem Modell und der Ausstattung des Fahrzeugs und beträgt mindestens 12 Monate.<br />Bitte beachten Sie, dass die Bestellung des Dienstes„Notruf-Service“ für Ihren PKW oder der Online Connectivity Unit (OCU) für Ihr Nutzfahrzeug notwendig ist, um die Dienste von „Security & Service“ nutzen zu können. Je nach Verfügbarkeit können gegebenenfalls Kosten für die Einrichtung des Notruf-Services entstehen.]]></entry>
+</page>
+</folder>
+<folder title="Guide &amp; Inform">
+<page title="Vehicle health report"/>
+<page title="Google Earth™"/>
+<page title="Google Street View™">
+<entry key="vw-mod-carnet-info-center-faq-category-3-section-3-navigation"><![CDATA[]]></entry>
+<entry key="vw-car-net-V03.959.801.SR-product-description" ref="true"><![CDATA[Behalten Sie die Orientierung: Mit Google Street View™ werden Ihnen Ziele übersichtlich mit 360-Grad-Panoramabildern aus der Strassenperspektive angezeigt.]]></entry>
+</page>
+<page title="Charging stations"/>
+<page title="My points of interest"/>
+<page title="News"/>
+<page title="Online Gracenote"/>
+<page title="Online map update"/>
+<page title="Online POI search (text)"/>
+<page title="Online POI search (speech)"/>
+<page title="Online traffic information">
+<entry key="vw-mod-carnet-info-center-faq-category-3-section-5-question-4"><![CDATA[Wird eine Strasse komplett markiert oder jeweils die Fahrtrichtung?]]></entry>
+</page>
+<page title="Online route import"/>
+<page title="Online destination import"/>
+<page title="Parking spaces">
+<entry key="vw-car-net-V03.959.801.RM-product-description" ref="true"><![CDATA[Mit "Parkplätze" suchen Sie bequem und ohne Frust nach geeigneten Parkplätzen im Umkreis des aktuellen Fahrzeugstandortes. Die Anwendung zeigt die Gesamtanzahl und die Anzahl der freien Parkplätze. Ausserdem informiert der Dienst über Preise, Öffnungszeiten und Entfernungen. Entsprechende Parkplätze werden in der Kartenansicht des Radio-Navigationssystems angezeigt.]]></entry>
+</page>
+<page title="Petrol stations">
+<entry key="vw-mod-carnet-info-center-faq-category-3-section-8-answer-4"><![CDATA[Die Suche kann ausschliesslich manuell durch den Fahrer angestossen werden.]]></entry>
+</page>
+<page title="Weather"/>
+<page title="Time manager">
+<entry key="vw-mod-carnet-info-center-faq-category-3-section-18-question-1"><![CDATA[Was leistet der Dienst "Zeit-Manager"?]]></entry>
+<entry key="vw-mod-carnet-info-center-faq-category-3-section-18-question-2"><![CDATA[Mit welchen Kalendern ist der Dienst "Zeit-Manager" kompatibel?]]></entry>
+<entry key="vw-mod-carnet-info-center-faq-category-3-section-18-answer-3"><![CDATA[Wenn Sie bei einem Termin eine Adresse hinterlegt haben, können Sie diese direkt an das Fahrzeug senden. Wählen Sie dazu im Dienst "Zeit-Manager" den jeweiligen Termin aus und klicken Sie auf „Ziel an das Fahrzeug senden“. Diese Funktion ist nur verfügbar, wenn Sie sich innerhalb der Vertragslaufzeit Ihres Dienstepakets „Guide & Inform“ befinden.]]></entry>
+</page>
+<page title="Webradio"/>
+<page title="Concierge Call (CHN)"/>
+<page title="Traffic Mini Map (CHN)"/>
+</folder>
+<folder title="e-Remote">
+<page title="App">
+<entry key="vw-mod-carnet-info-center-faq-category-4-section-1-answer-2"><![CDATA[Die Car-Net App kann im Apple Store und im Google Play Store heruntergeladen werden. Eine Übersicht zu verfügbaren Apps finden Sie auch im Car-Net <a href="http://volkswagen-carnet.com/ch/de/start/app-download.html" target="_blank">App Download Center</a>.]]></entry>
+</page>
+<page title="Departure times"/>
+<page title="Charging"/>
+<page title="Driving data"/>
+<page title="Vehicle status"/>
+<page title="Air conditioning"/>
+<page title="Last parking position"/>
+<page title="Doors and lights"/>
+<page title="Lock &amp; unlock"/>
+<page title="e-Manager"/>
+</folder>
+<folder title="Security &amp; Service">
+<page title="App">
+<entry key="vw-mod-carnet-info-center-faq-category-5-section-1-answer-2"><![CDATA[Die Car-Net App kann im Apple Store und im Google Play Store heruntergeladen werden. Eine Übersicht zu verfügbaren Apps finden Sie auch im Car-Net <a href="http://volkswagen-carnet.com/ch/de/start/app-download.html" target="_blank">App Download Center</a>.]]></entry>
+</page>
+<page title="Departure times"/>
+<page title="Automatic accident notification"/>
+<page title="Driving data"/>
+<page title="Vehicle data"/>
+<page title="Vehicle health report"/>
+<page title="Area alert"/>
+<page title="Speed alert"/>
+<page title="Horn &amp; turn signals"/>
+<page title="Information Call"/>
+<page title="Air conditioning"/>
+<page title="Charging"/>
+<page title="Emergency call service"/>
+<page title="Online anti-theft alarm"/>
+<page title="Remote Auxilary Heating">
+<entry key="vw-mod-carnet-info-center-faq-category-5-section-20-question-1"><![CDATA[Wie funktioniert der Dienst "Online-Standheizung"?]]></entry>
+</page>
+<page title="Breakdown call"/>
+<page title="Parking position"/>
+<page title="Service scheduling"/>
+<page title="Doors &amp; lights"/>
+<page title="Lock &amp; unlock"/>
+<page title="e-Manager"/>
+</folder>
+</folder>
+<page title="Interims IDs MOD 3"/>
+<folder title="General">
+<page title="Choose country/language"/>
+<page title="First level navigation"/>
+<page title="FAQ"/>
+<page title="Order pending"/>
+<page title="No articles"/>
+</folder>
+<folder title="Main Pages">
+<folder title="Step 1 product overview">
+<page title="1000_Produktauswahl">
+<entry key="vw-car-net-runtime-1y"><![CDATA[1 Jahr]]></entry>
+<entry key="vw-car-net-runtime-2y"><![CDATA[2 Jahre]]></entry>
+<entry key="vw-car-net-runtime-3y"><![CDATA[3 Jahre]]></entry>
+<entry key="vw-car-net-runtime-4y"><![CDATA[4 Jahre]]></entry>
+<entry key="vw-car-net-runtime-5y"><![CDATA[5 Jahre]]></entry>
+<entry key="vw-car-net-runtime-1m"><![CDATA[1 Monat]]></entry>
+<entry key="vw-car-net-runtime-2m"><![CDATA[2 Monate]]></entry>
+<entry key="vw-car-net-runtime-3m"><![CDATA[3 Monate]]></entry>
+<entry key="vw-car-net-runtime-6m"><![CDATA[6 Monate]]></entry>
+<entry key="vw-car-net-runtime-1y" ref="true"><![CDATA[1 Jahr]]></entry>
+<entry key="vw-car-net-runtime-2y" ref="true"><![CDATA[2 Jahre]]></entry>
+<entry key="vw-car-net-runtime-3y" ref="true"><![CDATA[3 Jahre]]></entry>
+<entry key="vw-car-net-runtime-4y" ref="true"><![CDATA[4 Jahre]]></entry>
+<entry key="vw-car-net-runtime-5y" ref="true"><![CDATA[5 Jahre]]></entry>
+<entry key="vw-car-net-runtime-1m" ref="true"><![CDATA[1 Monat]]></entry>
+<entry key="vw-car-net-runtime-2m" ref="true"><![CDATA[2 Monate]]></entry>
+<entry key="vw-car-net-runtime-3m" ref="true"><![CDATA[3 Monate]]></entry>
+<entry key="vw-car-net-runtime-6m" ref="true"><![CDATA[6 Monate]]></entry>
+<entry key="text.grossPrice"><![CDATA[(inkl. MwSt.)]]></entry>
+<entry key="vw-car-net-runtime-text" ref="true"><![CDATA[Verlängerung um ${runtime}]]></entry>
+</page>
+<page title="1030_Produktauswahl"/>
+<page title="Produktauswahl Flyout">
+<entry key="text.grossPrice" ref="true"><![CDATA[(inkl. MwSt.)]]></entry>
+<entry key="vw-car-net-runtime-1y" ref="true"><![CDATA[1 Jahr]]></entry>
+<entry key="vw-car-net-runtime-2y" ref="true"><![CDATA[2 Jahre]]></entry>
+<entry key="vw-car-net-runtime-3y" ref="true"><![CDATA[3 Jahre]]></entry>
+<entry key="vw-car-net-runtime-4y" ref="true"><![CDATA[4 Jahre]]></entry>
+<entry key="vw-car-net-runtime-5y" ref="true"><![CDATA[5 Jahre]]></entry>
+<entry key="vw-car-net-runtime-1m" ref="true"><![CDATA[1 Monat]]></entry>
+<entry key="vw-car-net-runtime-2m" ref="true"><![CDATA[2 Monate]]></entry>
+<entry key="vw-car-net-runtime-3m" ref="true"><![CDATA[3 Monate]]></entry>
+<entry key="vw-car-net-runtime-6m" ref="true"><![CDATA[6 Monate]]></entry>
+<entry key="vw-car-net-runtime-text"><![CDATA[Verlängerung um ${runtime}]]></entry>
+</page>
+</folder>
+<folder title="Step 2 shopping basket">
+<page title="2000_Warenkorb">
+<entry key="label.car"><![CDATA[Fahrzeug]]></entry>
+<entry key="label.price"><![CDATA[Preis]]></entry>
+<entry key="text.grossPrice" ref="true"><![CDATA[(inkl. MwSt.)]]></entry>
+<entry key="text.grossPrice" ref="true"><![CDATA[(inkl. MwSt.)]]></entry>
+<entry key="label.back"><![CDATA[Zurück]]></entry>
+</page>
+<page title="2100_Warenkorb_leer"/>
+</folder>
+<folder title="Step 3 invoice address">
+<page title="3000_Rechnungsadresse">
+<entry key="text.grossPrice" ref="true"><![CDATA[(inkl. MwSt.)]]></entry>
+<entry key="label.back" ref="true"><![CDATA[Zurück]]></entry>
+</page>
+<page title="3300_Rechnungsadresse_Geschäft_VatID">
+<entry key="text.netPrice"><![CDATA[(exkl. MwSt.)]]></entry>
+<entry key="label.back" ref="true"><![CDATA[Zurück]]></entry>
+</page>
+<page title="Additional input fields"/>
+<page title="3000_Rechnungsadresse - Growl Notification"/>
+</folder>
+<folder title="Step 4 payment">
+<page title="4000_Zahlungsmittel_Vorkasse"/>
+<page title="4100_Zahlungsmittel_PayPal"/>
+<page title="4200_Zahlungsmittel_Kreditkarte"/>
+<page title="5001 Checkout Technical Error - Growl Notification"/>
+<page title="Notifications payment"/>
+</folder>
+<folder title="Step 5 summary">
+<page title="5000_Bestellübersicht">
+<entry key="label.car" ref="true"><![CDATA[Fahrzeug]]></entry>
+<entry key="label.price" ref="true"><![CDATA[Preis]]></entry>
+<entry key="label.back" ref="true"><![CDATA[Zurück]]></entry>
+</page>
+</folder>
+<folder title="Confirmation">
+<page title="6000_Eingangsbestätigung">
+<entry key="text.orderConfirmation"><![CDATA[Vielen Dank für Ihre Bestellung]]></entry>
+<entry key="text.yourOrderNumber"><![CDATA[Ihre Bestellnummer:]]></entry>
+</page>
+<page title="Eingangsbestätigung pdf">
+<entry key="invoice.text.vatvw"><![CDATA[Die Steuernummer der Volkswagen AG ist CHE-112.191.628.]]></entry>
+</page>
+</folder>
+<folder title="My services">
+<page title="7000_Meine_Dienste">
+<entry key="label.car" ref="true"><![CDATA[Fahrzeug]]></entry>
+<entry key="label.code"><![CDATA[Bestellnummer:]]></entry>
+</page>
+</folder>
+</folder>
+<folder title="System mails">
+<page title="Content system mails">
+<entry key="vw-car-net-systemmails-shop-mailtext-reminder-45-days-before"><![CDATA[wir freuen uns, dass Sie die Vorteile der mobilen Online-Dienste von Car-Net seit vielen Monaten nutzen und hoffen, Sie sind zufrieden.<br /><br />Ihr Vertrag läuft am ${expiry-date} aus. Nehmen Sie Ihre mobilen Online-Dienste von Car-Net auch zukünftig in Anspruch und verlängern Sie Ihren Vertrag unter dem folgenden Link.<br /><br />Mit einem Klick werden Sie <a href="https://www.volkswagen-car-net.com/portal/de_CH/web/guest/home?intcmp=Car-Net_shop_reminder_45_days_before">hier</a> direkt zum Car-Net Portal weitergeleitet.<br /><br />Mit freundlichen Grüßen<br />Ihr Car-Net Team]]></entry>
+<entry key="vw-car-net-systemmails-shop-mailtext-reminder-14-days-before"><![CDATA[wir freuen uns, dass Sie die Vorteile der mobilen Online-Dienste von Car-Net seit vielen Monaten nutzen und hoffen, Sie sind zufrieden.<br /><br />Ihr Vertrag läuft am ${expiry-date} aus. Nehmen Sie Ihre mobilen Online-Dienste von Car-Net auch zukünftig in Anspruch und verlängern Sie Ihren Vertrag unter dem folgenden Link.<br /><br />Mit einem Klick werden Sie <a href="https://www.volkswagen-car-net.com/portal/de_CH/web/guest/home?intcmp=Car-Net_shop_reminder_14_days_before">hier</a> direkt zum Car-Net Portal weitergeleitet.<br /><br />Mit freundlichen Grüßen<br />Ihr Car-Net Team]]></entry>
+<entry key="vw-car-net-systemmails-shop-mailtext-reminder-7-days-before"><![CDATA[wir freuen uns, dass Sie die Vorteile der mobilen Online-Dienste von Car-Net seit vielen Monaten nutzen und hoffen, Sie sind zufrieden.<br /><br />Ihr Vertrag läuft am ${expiry-date} aus. Nehmen Sie Ihre mobilen Online-Dienste von Car-Net auch zukünftig in Anspruch und verlängern Sie Ihren Vertrag unter dem folgenden Link.<br /><br />Mit einem Klick werden Sie <a href="https://www.volkswagen-car-net.com/portal/de_CH/web/guest/home?intcmp=Car-Net_shop_reminder_7_days_before">hier</a> direkt zum Car-Net Portal weitergeleitet.<br /><br />Mit freundlichen Grüßen<br />Ihr Car-Net Team]]></entry>
+<entry key="vw-car-net-systemmails-shop-mailtext-reminder-14-days-after"><![CDATA[wir freuen uns, dass Sie die Vorteile der mobilen Online-Dienste von Car-Net seit vielen Monaten genutzt haben und hoffen, Sie waren zufrieden.<br /><br />Ihr Vertrag ist am ${expiry-date} ausgelaufen. Nehmen Sie Ihre mobilen Online-Dienste von Car-Net auch zukünftig in Anspruch und verlängern Sie Ihren Vertrag.<br /><br />Mit einem Klick werden Sie <a href="https://www.volkswagen-car-net.com/portal/de_CH/web/guest/home?intcmp=Car-Net_shop_reminder_14_days_after">hier</a> direkt zum Car-Net Portal weitergeleitet.<br /><br />Mit freundlichen Grüßen<br />Ihr Car-Net Team]]></entry>
+</page>
+</folder>
+<folder title="Invoice">
+<page title="Invoice">
+<entry key="invoice.text.vatvw" ref="true"><![CDATA[Die Steuernummer der Volkswagen AG ist CHE-112.191.628.]]></entry>
+</page>
+</folder>
+<folder title="Legal Pages">
+<page title="Car-Net terms of use">
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-1"><![CDATA[1. Die Volkswagen AG, Berliner Ring 2, 38440 Wolfsburg, eingetragen im Handelsregister des Amtsgerichts Braunschweig unter der Nr. HRB 100484 („<b>Volkswagen AG</b>“), erbringt für bestimmte Fahrzeuge der Marke Volkswagen („<b>Fahrzeug</b>“) mobile Online-Dienste („<b>mobile Online-Dienste</b>“).<br /><br />2. Diese Allgemeinen Geschäftsbedingungen für mobile Online-Dienste von Car-Net („<b>AGB</b>“) regeln die Rechte und Pflichten der Volkswagen AG sowie des Halters oder berechtigten Nutzers des Fahrzeugs („<b>Kunde</b>“) bei der Bestellung (Abschluss des Vertrages über die mobilen Online-Dienste), der Inanspruchnahme und der Nutzung von mobilen Online-Diensten sowie der Nutzung der mobilen Applikation („Car-Net App“). Die Car-Net App wird dem Kunden von der Volkswagen AG über einen App Store („Plattform“) des jeweiligen Betreibers („Plattformbetreiber“) kostenlos zum Herunterladen angeboten. Vertragspartner auf Grundlage dieser AGB für die Nutzung der Car-Net App sowie derer Inhalte wird die Volkswagen AG, nicht der Plattformbetreiber. Für das Fahrzeug selbst und dessen Ausstattung gelten ausschliesslich die Bedingungen der Fahrzeugbestellung (Kauf-, Leasing- oder Mietvertrag). Für die Nutzung der mobilen Online-Dienste durch Dritte, denen der Kunde die Berechtigung hierzu einräumt („Mitnutzer“) gelten diese AGB nach Massgabe von Ziffer XIV entsprechend.<br /><br />3. Zur Nutzung der mobilen Online-Dienste muss der Kunde<br /><ul><li>ein Volkswagen Benutzerkonto haben und bei Car-Net mit Benutzername und Passwort angemeldet sein (Ziffer VI),</li><li><u>für jedes Fahrzeug</u> mit der Volkswagen AG einen Vertrag über die mobilen Online-Dienste abschliessen und im Rahmen der ersten Bestellung das Fahrzeug einmalig mit dem Volkswagen Benutzerkonto verbinden („<b>Bestellung</b>“; Ziffer VII).</li></ul><br />Ist das Fahrzeug (abhängig von Modell, Modelljahr und Ausstattung) mit dem „Notruf-Service“ ausgestattet, kann der Kunde diese Funktion ohne Benutzerkonto, Bestellung und Freischaltung nutzen. <br /><br />Für einige mobile Online-Dienste ist vor jedem Zugriff die Eingabe einer besonderen persönlichen Identifikationsnummer (S-PIN) erforderlich. Nähere Informationen hierzu findet der Kunde im Car-Net Portal und im Bordbuch des Fahrzeugs. Die S-PIN ist vom Kunden streng vertraulich zu behandeln. Im Falle der Offenbarung der S-PIN gegenüber einem Dritten hat der Kunde die S-PIN unverzüglich zu ändern.<br /><br />4. Bei der ersten Bestellung mobiler Online-Dienste für ein Neufahrzeug gilt: Die Bestellung der mobilen Online-Dienste für das Fahrzeug (vgl. Ziffer VII) ist innerhalb von 90 Tagen nach Übernahme des Fahrzeugs durch den Kunden vorzunehmen („<b>Erstbestellfrist</b>“). Andernfalls verkürzt sich die kostenlose Dienstelaufzeit (vgl. Ziffer VIII.1) um die Anzahl der Tage, die zwischen dem Ende der Erstbestellfrist und der tatsächlichen Bestellung liegen (vgl. Ziffer IX.2).<br /><br />5. Die Volkswagen AG kann für den Kunden zumutbare Änderungen dieser AGB vornehmen. Änderungen dieser AGB werden Vertragsinhalt, wenn die Änderungen dem Kunden per E-Mail mitgeteilt wurden, der Kunde nicht innerhalb von sechs Wochen nach der Mitteilung widerspricht und die Volkswagen AG den Kunden in der Änderungsmitteilung ausdrücklich auf diese Folge hingewiesen hat. Widerspricht der Kunde den Änderungen fristgerecht, werden die Änderungen dem Kunden gegenüber nicht wirksam. Die Volkswagen AG hat in diesem Fall das Recht, den Vertrag über die mobilen Online-Dienste mit einer Frist von einem Monat zu kündigen, sofern eine Fortführung des Vertrages ohne die Änderungen für die Volkswagen AG unmöglich oder unzumutbar ist.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-2"><![CDATA[1. Die mobilen Online-Dienste sind im Fahrzeugkonfigurator, in Produktbroschüren und im Car-Net Portal beschrieben. Welche mobilen Online-Dienste der Kunde nutzen kann, richtet sich nach der Verfügbarkeit der einzelnen Dienste in dem jeweiligen Land, sowie nach Modell, Modelljahr und Ausstattung des Fahrzeugs. Nähere Informationen hierzu findet der Kunde im Car-Net Portal und im Bordbuch des Fahrzeugs.<br /><br />2. Genutzt werden können die mobilen Online-Dienste über<br /><br /><ul><li>ein im Fahrzeug verbautes Navigationssystem/Drei-Tasten-Modul,</li><li>das Car-Net Portal, sowie</li><li>die Car-Net App (je nach Verfügbarkeit).</li></ul><br />3. Die Weiterentwicklung der Fahrzeugtechnik- und Informationstechnologie sowie internetbasierter Dienstleistungen erfordern gelegentlich die Anpassung und Weiterentwicklung der mobilen Online-Dienste an neue technische Möglichkeiten sowie an geändertes Nutzerverhalten. In diesem Rahmen behält sich die Volkswagen AG vor, die mobilen Online-Dienste in für den Kunden zumutbarer Weise anzupassen. Soweit sich infolge solcher Anpassungen nicht nur unerhebliche nutzungsbezogene Änderungen ergeben, wird die Volkswagen AG den Kunden über Art und Umfang der Änderungen per E-Mail informieren.<br /><br />4. Die Volkswagen AG behält sich das Recht vor, den Funktionsumfang der Car-Net App mittels dem Kunden über die Plattform zur Verfügung gestellten Updates zu erweitern, zu reduzieren oder zu ändern.<br /><br />5. Die Volkswagen AG ergreift alle zumutbaren Massnahmen, um die durchgängige Verfügbarkeit der mobilen Online-Dienste zu erreichen und bei auftretenden Störungen unverzüglich wiederherzustellen. Aufgrund höherer Gewalt (z. B. kriegerische Auseinandersetzungen, Unwetter, Arbeitskampfmassnahmen) oder aufgrund der Durchführung notwendiger Wartungs-, Reparatur- oder sonstiger Massnahmen an den technischen Einrichtungen der Volkswagen AG oder an den technischen Einrichtungen Dritter, die Daten, Inhalte, Informationen oder Übertragungskapazitäten bereitstellen, kann es gleichwohl zu unvermeidbaren, vorübergehenden Störungen, Unterbrechungen oder einer Verminderung der Leistungsfähigkeit (Geschwindigkeit) der mobilen Online-Dienste kommen. Zudem kann eine intensive gleichzeitige Nutzung der mobilen Online-Dienste zu einer Beeinträchtigung der Leistungsfähigkeit (Geschwindigkeit) führen.<br /><br />6. Im Falle von technischen Störungen oder sonstigen Problemen kann sich der Kunde an den Kundenservice der Volkswagen AG wenden. Die Kontaktdaten findet der Kunde auf dem Car-Net Portal unter dem Link „Kontakt“.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-3"><![CDATA[1. Die mobilen Online-Dienste benötigen<br /><br /><ul><li>eine mobile Datenverbindung zwischen dem Fahrzeug und dem Datenserver der Volkswagen AG („Datenserver“, vgl. Ziffer IV und V) sowie</li><li>bei Nutzung über das Car-Net Portal oder die Car-Net App eine Datenverbindung zwischen dem (mobilen) Endgerät des Kunden (Smartphone, Tablet, PC etc.; „Endgerät des Kunden“) und dem Datenserver.</li></ul><br />2. Die Datenverbindung zwischen dem Endgerät des Kunden und dem Datenserver bei Nutzung der mobilen Online-Dienste über das Car-Net Portal oder die Car-Net App ist nicht Teil der durch die Volkwagen AG erbrachten Leistungen. Hierfür gelten ausschliesslich die mit dem Telekommunikationsanbieter vereinbarten Bedingungen. Hierbei können zusätzliche Kosten entstehen. Dies gilt insbesondere hinsichtlich anfallender Verbindungs- und Roamingentgelte. Die Entstehung solcher Kosten liegt ausserhalb des Einfluss- und Verantwortungsbereichs der Volkswagen AG.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-4"><![CDATA[1. Abhängig von Modell, Modelljahr und Ausstattung des Fahrzeugs ist die Herstellung der Datenverbindung zwischen dem Fahrzeug und dem Datenserver Teil der durch die Volkwagen AG erbrachten Leistungen. Nähere Informationen hierzu findet der Kunde z. B. im Fahrzeugkonfigurator und im Car-Net Portal. Der Kunde benötigt insoweit keinen gesonderten Mobilfunkvertrag; Verbindungs- und Roamingentgelte fallen für den Kunden nicht an.<br /><br />2. In diesem Fall sind die mobilen Online-Dienste so ausgelegt, dass die Datenverbindung zwischen Fahrzeug und dem Datenserver funktioniert, wenn sich das Fahrzeug in einem Land befindet, in das es mit Zustimmung der Volkwagen AG zur Erstzulassung ausgeliefert worden ist („<b>Nutzungsgebiet</b>“).<br /><br />3. Welche Länder zum Nutzungsgebiet des Fahrzeugs gehören, ist von Modell, Modelljahr und Ausstattung des Fahrzeugs abhängig. Nähere Informationen zum Nutzungsgebiet des Fahrzeugs findet der Kunde z. B. im Fahrzeugkonfigurator und im Car-Net Portal.<br /><br />4. Das Funktionieren und die Leistungsfähigkeit (Geschwindigkeit) der mobilen Datenverbindung zwischen dem Fahrzeug und dem Datenserver der Volkswagen AG hängen von Faktoren ab, die ausserhalb des Einfluss- und Verantwortungsbereichs der Volkswagen AG liegen. Dazu gehören insbesondere:<br /><ul><li>ausreichender Mobilfunkempfang am Standort des Fahrzeugs;</li><li>Störung, Beeinträchtigung oder Unterbrechung des Mobilfunkempfangs durch Tunnel, Garagen, Unterführungen oder sonstige Störeinflüsse (Witterungseinflüsse, wie Gewitter, Störeinrichtungen, Gebäude, Brücken oder Berge, intensive Mobilfunknutzung in der betreffenden Funkzelle etc.).</li></ul>]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-5"><![CDATA[1. Abhängig von Modell, Modelljahr und Ausstattung des Fahrzeugs ist die Datenverbindung zwischen dem Fahrzeug und dem Datenserver nicht Teil der durch die Volkwagen AG erbrachten Leistungen. Nähere Informationen hierzu findet der Kunde z. B. im Fahrzeugkonfigurator und im Car-Net Portal.<br /><br />2. Für die Herstellung der Datenverbindung zwischen dem Fahrzeug und dem Datenserver hat der Kunde in diesem Fall eine SIM-Karte mit aktivierter Datenoption und gültigem Mobilfunkvertrag mit dem werkseitig verbauten Navigationssystem im Fahrzeug zu verbinden. Hinweise zur Verbindung der SIM-Karte mit dem Navigationssystem finden sich in der Bedienungsanleitung des Navigationssystems sowie im Car-Net Portal.<br /><br />3. Für die Datenverbindungen gemäss Ziffer V gelten ausschliesslich die mit dem Telekommunikationsanbieter vereinbarten Bedingungen. Hierbei können zusätzliche Kosten entstehen. Dies gilt insbesondere hinsichtlich anfallender Verbindungs- und Roamingentgelte. Die Entstehung solcher Kosten liegt ausserhalb des Einfluss- und Verantwortungsbereichs der Volkswagen AG.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-6"><![CDATA[1. Zur vollumfänglichen Nutzung der Anwendung benötigt der Nutzer ein Volkswagen Benutzerkonto und muss sich mit Benutzername und Passwort bei Car-Net anmelden. Hierfür ist die Angabe der E-Mail-Adresse des Nutzers sowie eines selbst gewählten Passwortes (Login-Daten) erforderlich.<br /><br />2. Für die Anmeldung kann der Nutzer ein bereits bei einer anderen Volkswagen Anwendung erstelltes Volkswagen Benutzerkonto verwenden oder ein Volkswagen Benutzerkonto neu anlegen. Mit einem Volkswagen Benutzerkonto kann sich der Nutzer bei weiteren Anwendungen der Volkswagen AG anmelden. Hierfür ist die Angabe der E-Mail-Adresse des Nutzers sowie eines selbst gewählten Passwortes (Login-Daten) erforderlich.<br /><br />3. Das Passwort für den Zugang zum Volkswagen Benutzerkonto ist vom Nutzer so zu wählen, dass es durch Dritte nicht leicht zu erraten ist. Insbesondere Vor- und Familiennamen oder Geburtstage sowie Namen von Angehörigen sind als Passwort nicht geeignet. Gleiches gilt für trivial angeordnete Zahlenkombinationen (z. B. 12345). Das Passwort muss mindestens eine Zahl und ein Sonderzeichen enthalten.<br /><br />4. Das Passwort ist vom Nutzer streng vertraulich zu behandeln. Im Falle der Offenbarung des Passwortes gegenüber einem Dritten hat der Nutzer das Passwort unverzüglich zu ändern oder – falls er sich nicht mehr in sein Volkswagen Benutzerkonto einloggen kann – sich mit der Volkswagen AG in Verbindung zu setzen.<br /><br />5. Der Nutzer hat dafür Sorge zu tragen, dass die Angaben im Volkswagen Benutzerkonto wahrheitsgemäss und vollständig sind. Da die Kommunikation der Volkswagen AG mit dem Nutzer u. a. per E-Mail erfolgt, muss der Nutzer insbesondere über eine gültige E-Mail-Adresse verfügen und Zugriff auf den dazugehörigen E-Mail-Account haben. Ändern sich die E-Mail-Adresse oder sonstige Angaben des Nutzers, so sind diese unverzüglich zu aktualisieren.<br /><br />6. Die Volkswagen AG stellt dem Nutzer das Volkswagen Benutzerkonto unentgeltlich zur Verfügung.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-7"><![CDATA[1. Nach einer Anmeldung mit Benutzername und Passwort bei Car-Net kann der Kunde die mobilen Online-Dienste bestellen und so einen Vertrag über die mobilen Online-Dienste für ein Fahrzeug mit der Volkswagen AG abschliessen. Das Anklicken des Bestellbuttons durch den Kunden stellt ein Angebot an die Volkswagen AG zum Abschluss des Vertrages über die mobilen Online-Dienste dar.<br /><br />2. Der Kunde muss im nächsten Schritt sein Fahrzeug für die mobilen Online-Dienste freischalten. Für die Freischaltung muss eine aktive Datenverbindung zwischen dem Fahrzeug und dem Datenserver bestehen. Wie die Freischaltung vorzunehmen ist, variiert je nach Modell und Ausstattung des Fahrzeugs. Die für die Freischaltung des betreffenden Fahrzeugs geltende Variante sowie die erforderlichen Schritte werden dem Kunden im Car-Net Portal in der Menüführung angezeigt.<br /><br />3. Die Volkswagen AG schickt dem Kunden sodann eine E-Mail an die im Volkswagen Benutzerkonto angegebene E-Mail-Adresse, die den Eingang der Bestellung bei der Volkswagen AG bestätigt und die Einzelheiten der Bestellung aufführt („<b>Bestellbestätigung</b>“). Die Bestellbestätigung stellt die Annahme des Angebots des Kunden durch die Volkswagen AG dar; mit dem Eingang der Bestellbestätigung im E-Mail-Account des Kunden kommt der Vertrag über die mobilen Online-Dienste mit der Volkswagen AG zustande.<br /><br />4. Nach Freischaltung und Zugang der Bestellbestätigung ist das Fahrzeug mit dem Volkswagen Benutzerkonto des Kunden verbunden.<br /><br />5. Ist der Kunde Verbraucher, kann er die Bestellung binnen vierzehn Tagen ohne Angabe von Gründen widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses. Widerrufsbelehrung und Muster-Widerrufsformular werden dem Kunden mit der Bestellbestätigung übersandt.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-11"><![CDATA[1. Die ordentliche Kündigung des Vertrages über die mobilen Online-Dienste ist während der Dienstelaufzeit ausgeschlossen. Das Recht zur ausserordentlichen Kündigung aus wichtigem Grund bleibt hiervon unberührt.<br /><br />2. Die Volkswagen AG behält sich vor, den Vertrag über die mobilen Online-Dienste (ohne Änderung der vertraglichen Regelungen im Übrigen) auf ein anderes Unternehmen der Volkswagen Group zu übertragen; hierzu erteilt der Kunde der Volkswagen AG bereits jetzt seine Zustimmung. Die Volkswagen AG wird dem Kunden die Übertragung rechtzeitig in Textform mitteilen.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-12"><![CDATA[1. Der Kunde erhält das nicht ausschliessliche Recht, die mobilen Online-Dienste während der Dienstelaufzeit und die darüber bezogenen Inhalte und Informationen zeitlich unbegrenzt zu nutzen. Dem Kunden ist es nicht gestattet, die über die mobilen Online-Dienste bezogenen Inhalte und Informationen gewerblich an Dritte weiterzuverbreiten.<br /><br />2. Der Kunde erhält das unentgeltliche, nicht ausschliessliche, nicht übertragbare und nicht unterlizenzierbare Recht, die Car-Net App nach Maßgabe dieser AGB zu nutzen. Die Nutzung ist räumlich beschränkt: Eine Nutzung in den Vereinigten Staaten von Amerika ist nicht gestattet.<br /><br />3. Die Volkswagen AG schützt die personenbezogenen Daten des Kunden und nutzt diese ausschliesslich, soweit dies gesetzlich zulässig ist oder der Kunde in eine Nutzung eingewilligt hat; nähere Informationen hierzu findet der Kunde in dem Dokument Datenschutz / Dienstebezogene Datennutzung. An sonstigen Daten, insbesondere technischen Daten, die entweder keinen Personenbezug aufweisen oder deren Personenbezug entfernt wurde (anonymisierte Daten), räumt der Kunde der Volkswagen AG das nicht ausschliessliche, zeitlich und inhaltlich unbeschränkte, übertragbare und unterlizenzierbare Nutzungsrecht ein.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-13"><![CDATA[1. Der Kunde ist verpflichtet, dafür Sorge zu tragen, dass die Nutzung der mobilen Online-Dienste nicht gegen die Regelungen dieser AGB, gesetzliche Bestimmungen, Rechte Dritter oder die guten Sitten verstösst. Dies gilt auch dann, wenn er Dritten den Zugriff auf die mobilen Online-Dienste bzw. das Fahrzeug gewährt.<br /><br />2. Nutzt ein Dritter (z. B. ein Familienangehöriger oder ein Mitarbeiter des Kunden) das Fahrzeug, so hat der Kunde durch geeignete Massnahmen (etwa die Einholung des Einverständnisses des Dritten) dafür Sorge zu tragen, dass durch einen Zugriff des Kunden auf die mobilen Online-Dienste die Rechte des Dritten nicht beeinträchtigt werden. Dabei ist zu berücksichtigen, dass der Kunde Zugriff auf Informationen über das Fahrzeug und damit (indirekt) über den Dritten (Nutzerverhalten, letzte Parkposition etc.) erhält.<br /><br />3. Bei der Nutzung der Car-Net App sind insbesondere Urheber-, Namens- und Markenrechte sowie sonstige Rechte der Volkswagen AG und sonstiger Dritter (insbesondere Persönlichkeitsrechte) zu beachten. Dem Kunden ist es untersagt, die Car-Net App unter Verstoss gegen diese Bestimmungen zu nutzen. Der Kunde hat jede missbräuchliche Nutzung der Car-Net App zu unterlassen; insbesondere darf er die Car-Net App oder Teile davon nicht in andere Webangebote, weder private noch kommerzielle, integrieren oder gewerblich weiterverbreiten.<br /><br />4. Ist der Kunde gleichzeitig der Fahrzeugführer, dürfen die auf der Car-Net App angebotenen Dienste während der Fahrt nur insoweit genutzt werden, als dieser nicht vom Verkehrsgeschehen abgelenkt wird und die gesetzlichen Vorschriften für den Strassenverkehr eingehalten werden.<br /><br />5. Über die Car-Net App und den mobilen Online-Dienst Fahrzeugzustandsbericht besteht die Möglichkeit, aktuelle Warn- oder Fehlermeldungen zum Fahrzeug einzusehen. Für den Kunden massgeblich bleiben allein die Warn- und Fehlermeldungen im Fahrzeug.<br /><br />6. Bei schuldhaftem Verstoss gegen die Verpflichtungen in dieser Ziffer XII haftet der Kunde auf Ersatz aller der Volkswagen AG hieraus entstehenden Schäden und verpflichtet sich, die Volkswagen AG von etwaigen aus diesen Verstössen resultierenden Ansprüchen Dritter freizustellen.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-14"><![CDATA[1. Die Volkswagen AG ist nicht verantwortlich für Aktualität, Richtigkeit, Vollständigkeit und / oder Qualität der über die mobilen Online-Dienste zur Verfügung gestellten Daten, Inhalte und Informationen, die von Dritten bereitgestellt werden. Solche Daten, Inhalte und Informationen werden von der Volkswagen AG nicht inhaltlich überprüft und / oder modifiziert.<br /><br />2. Die Volkswagen AG ist nicht verantwortlich für Schäden, die durch unsachgemässe Nutzung der mobilen Online-Dienste oder der Car-Net App entstehen. Dies gilt insbesondere, wenn der Fahrer des Fahrzeugs durch die Nutzung der mobilen Online-Dienste oder der Car-Net App während der Fahrt vom Verkehrsgeschehen abgelenkt wird und dies zu Unfällen führt.<br /><br />3. Die Volkswagen AG ist nicht verantwortlich für Schäden, die dadurch entstehen, dass die Darstellung von Warn- oder Fehlermeldungen in der Car-Net App oder über den mobilen Online-Dienst Fahrzeugzustandsbericht von der tatsächlichen Anzeige im Fahrzeug abweichen (Ziffer XII.5).<br /><br />4. Die Volkswagen AG ist nicht verantwortlich für Schäden, die dadurch entstehen, dass der Kunde ein ungeeignetes Passwort oder eine ungeeignete S-PIN gewählt hat oder das Passwort/die S-PIN nicht sicher verwahrt hat (vgl. Ziffer I.3 und Ziffer VI) oder die durch einen Dritten verursacht werden, dem der Kunde den Zugriff auf die mobilen Online-Dienste ermöglicht hat (vgl. Ziffer XII.2).<br /><br />5. Im Übrigen haftet die Volkswagen AG nach den folgenden Bestimmungen:<br /><br />a) Hat die Volkswagen AG aufgrund der gesetzlichen Bestimmungen für einen Schaden aufzukommen, der leicht fahrlässig verursacht wurde, so haftet die Volkswagen AG beschränkt: Die Haftung besteht in diesem Fall nur bei Verletzung vertragswesentlicher Pflichten. Diese Haftung ist zudem auf den bei Vertragsabschluss vorhersehbaren typischen Schaden begrenzt.<br /><br />b) Unabhängig von einem Verschulden der Volkswagen AG bleibt eine etwaige Haftung bei arglistigem Verschweigen eines Mangels, aus der Übernahme einer Garantie und nach dem Produkthaftungsgesetz unberührt.<br /><br />c) Ausgeschlossen ist die persönliche Haftung der gesetzlichen Vertreter, Erfüllungsgehilfen und Betriebsangehörigen der Volkswagen AG für von ihnen durch leichte Fahrlässigkeit verursachte Schäden. Für von ihnen mit Ausnahme der gesetzlichen Vertreter und leitenden Angestellten durch grobe Fahrlässigkeit verursachte Schäden gilt die diesbezüglich für die Volkswagen AG Ziffer XIII.5.a vorgesehene Haftungsbeschränkung entsprechend.<br /><br />Die Haftungsbeschränkungen dieser Ziffer XIII.5 gelten nicht bei Verletzung von Leben, Körper oder Gesundheit.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-15"><![CDATA[1. Der Vertrag über die mobilen Online-Dienste ist an das Fahrzeug gebunden und kann nicht auf ein anderes Fahrzeug übertragen werden. Daher ist der Kunde bei Verkauf oder sonstiger dauerhafter Weitergabe des Fahrzeugs an einen Dritten („<b>Erwerber</b>“) verpflichtet,<br /><ul><li>den Vertrag über die mobilen Online-Dienste auf den Erwerber zu übertragen;</li><li>seine persönlichen Daten im Fahrzeug zu löschen;</li><li>seine Hardware (SIM-Karte) aus dem Fahrzeug zu entfernen, es sei denn, der Kunde möchte diese mit dem Fahrzeug an den Erwerber weitergeben;</li><li>das Fahrzeug aus seinem Volkswagen Benutzerkonto zu löschen.</li></ul><br />2. Genutzt werden können die mobilen Online-Dienste durch den Erwerber nach Eröffnung eines Volkswagen Benutzerkontos (Ziffer VI) und der Bestellung der mobilen Online-Dienste (Ziffer VII).<br /><br />3. Die Wirksamkeit der Übertragung des Vertrages über die mobilen Online-Dienste auf den Erwerber ist von der Zustimmung der Volkswagen AG abhängig, welche die Volkswagen AG nur aus wichtigem Grund in der Person des Erwerbers verweigern wird; die Bestellbestätigung gemäss Ziffer VII.2 gilt als Zustimmung der Volkswagen AG zur Vertragsübertragung.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new2-text-16"><![CDATA[1. Ausschliesslicher Gerichtsstand für sämtliche Ansprüche aus und im Zusammenhang mit dem Vertrag über die mobilen Online-Dienste ist Wolfsburg, Deutschland, wenn der Kunde Kaufmann ist.<br /><br />2. Ist der Kunde Verbraucher, kann die Volkswagen AG ihn nur bei dem für seinen Wohnsitz oder gewöhnlichen Aufenthalt zuständigen Gericht verklagen; der Kunde kann die Volkswagen AG dagegen neben dem für seinen Wohnsitz oder gewöhnlichen Aufenthalt zuständigen Gericht an jedem gesetzlich zugelassenen Gerichtsstand verklagen.<br /><br />3. Für alle Streitigkeiten aus oder in Zusammenhang mit dem Vertrag über die mobilen Online-Dienste gilt ausschliesslich das Recht der Bundesrepublik Deutschland; die Anwendung des Übereinkommens der Vereinten Nationen über Verträge über den Internationalen Warenkauf (CISG) ist ausgeschlossen. Ist der Kunde Verbraucher, gilt abweichend hiervon das Recht des Staates, in dem der Verbraucher zum Zeitpunkt des Vertragsschlusses seinen Wohnsitz oder gewöhnlichen Aufenthalt hat.]]></entry>
+<entry key="vw-mod-carnet-legal-pages-terms-and-conditions-new-appendix-text-1"><![CDATA[<b>Widerrufsrecht</b><br />Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses. Um Ihr Widerrufsrecht auszuüben, müssen Sie uns <br /><br />Volkswagen AG<br />Berliner Ring 2<br />Brieffach 9051<br />38440 Wolfsburg<br />Telefonnummer: {0}<br />Telefaxnummer: +49 (180) 532 98 65<br />E-Mail-Adresse: <a href="mailto:contract-support@volkswagen.de">contract-support@volkswagen.de</a><br /><br />mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax, E-Mail oder per Telefon) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden. <br /><br />Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.<br /><br /><b>Folgen des Widerrufs</b><br />Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschliesslich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet. <br /><br />Haben Sie verlangt, dass die Dienstleistung während der Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.<br /><br /><b>Ende der Widerrufsbelehrung</b>]]></entry>
+</page>
+<page title="Privacy Policy">
+<entry key="vw-mod-carnet-legal-pages-privacy-policy-text-13"><![CDATA[Wenn Sie das Car-Net Portal nutzen, verwenden wir zur Erfassung Ihrer Nutzungsdaten sog. „Cookies“. Cookies sind kleine Dateien mit Konfigurationsinformationen, die auf Ihrem Computer gespeichert werden. Die meisten Internetbrowser sind so eingestellt, dass alle Cookies automatisch akzeptiert werden. Sie können diese Funktion allerdings deaktivieren und Ihren Browser so einstellen, dass dieser keine oder nur bestimmte Cookies akzeptiert oder Sie benachrichtigt werden, sobald Cookies gesendet werden. Dies kann zur Folge haben, dass Sie nicht sämtliche Funktionen unserer Website vollständig nutzen können. Weitere Hinweise zu Cookies entnehmen Sie bitte unserer Cookie-Richtlinie. Bei der Nutzung der Car-Net App oder bei der Nutzung von Car-Net über das Navigationssystem werden keine Cookies verwendet. Weitere Hinweise zu Cookies entnehmen Sie bitte unserer Cookie-Richtlinie unter: <a href="https://www.volkswagen-car-net.com/portal/de_CH/web/ch/content/-/content/legal/cookie-information" target="_blank">https://www.volkswagen-car-net.com/portal/de_CH/web/ch/content/-/content/legal/cookie-information</a>]]></entry>
+</page>
+</folder>
+</properties>
